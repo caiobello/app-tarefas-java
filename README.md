@@ -10,8 +10,8 @@ Ao iniciar o aplicativo, uma janela é exibida com uma caixa de texto para adici
 ### Contribuição
 Sinta-se livre para contribuir com este aplicativo, adicionando novos recursos ou melhorando o código existente. Basta enviar um pull request para o repositório.
 
+<br>
 
+#
 
-
-#<br>
-###Dev. Caio Bello
+### Dev. Caio Bello
